@@ -1,7 +1,7 @@
 # Hi there, I'm Zoya Shaikh 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZoyaShaikh/ZoyaShaikh/main/Banner.png" alt="Zoya Shaikh" width="100%">
+  <img src="/Banner.png" alt="zoyashaikh3" width="100%">
 </p>
 
 ## 📌 About Me
